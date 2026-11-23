@@ -1,0 +1,7 @@
+{
+  "name": "Key Auth: Biometric Security Suite",
+  "description": "An advanced multi-layered authentication system that uses keystroke dynamics as a biometric fingerprint, stealth facial verification for suspicious logins, and a honeypot UI to trap and monitor attackers who have stolen valid credentials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
