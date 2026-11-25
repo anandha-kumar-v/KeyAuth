@@ -173,9 +173,3 @@ This project demonstrates the concept and is **not production-ready**:
 
 **Supervisor:** Mrs. G. Hemalatha, M.E., Assistant Professor, Department of Cyber Security
 **Institution:** Paavai Engineering College (Autonomous), Pachal, Namakkal – 637018
-
----
-
-## 📄 License
-
-Created for academic purposes. Add a license of your choice (e.g., MIT) if you want others to reuse the code.
